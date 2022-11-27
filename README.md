@@ -6,5 +6,5 @@
 </p>
 
 <p align="left"> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="Hack The Box" />
+  <a href="https://tryhackme.com/p/technoHerder"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="Hack The Box" /></a>
 </p>
