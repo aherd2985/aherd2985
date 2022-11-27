@@ -18,4 +18,5 @@
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Chisel with Proxychains](https://hack.technoherder.com/chisel/)
+- [C# with WinAPI and P/Invoke](https://hack.technoherder.com/winapi-csharp/)
 <!-- BLOG-POST-LIST:END -->
