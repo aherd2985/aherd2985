@@ -14,3 +14,8 @@
 <p align="left"> 
   <img src="https://thumbs.gfycat.com/BasicOrganicBlackrussianterrier-size_restricted.gif" alt="hackerMan" />
 </p>
+
+## :notebook: Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Chisel with Proxychains](https://hack.technoherder.com/chisel/)
+<!-- BLOG-POST-LIST:END -->
