@@ -5,6 +5,7 @@
   <img src="https://profile-counter.glitch.me/aherd2985/count.svg" />
 </p>
 
-<p align="left"> ****
+<p align="left"> 
   <a href="https://tryhackme.com/p/technoHerder"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="TryHackMe" /></a>
 </p>
+{{< image src="https://tryhackme.com/p/technoHerder" alt="TryHackMe" style="max-width: 256px; display: inline" >}}
