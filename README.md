@@ -8,3 +8,7 @@
 <p align="left"> 
   <a href="https://tryhackme.com/p/technoHerder"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="TryHackMe" /></a>
 </p>
+
+<p align="left"> 
+  <img src="https://thumbs.gfycat.com/BasicOrganicBlackrussianterrier-size_restricted.gif" alt="hackerMan" />
+</p>
