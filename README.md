@@ -19,4 +19,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Chisel with Proxychains](https://hack.technoherder.com/chisel/)
 - [C# with WinAPI and P/Invoke](https://hack.technoherder.com/winapi-csharp/)
+- [Root an Android Mobile Device](https://hack.technoherder.com/rooting-android/)
 <!-- BLOG-POST-LIST:END -->
