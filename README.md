@@ -4,15 +4,15 @@
 
 <p align="left"> 
   Visitors (Since Sept 2, 2022):<br>
-  <img src="https://profile-counter.glitch.me/aherd2985/count.svg" />
+  <img src="https://profile-counter.glitch.me/aherd2985/count.svg" target="_blank"/>
 </p>
 
 <p align="left"> 
-  <a href="https://tryhackme.com/p/technoHerder"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="TryHackMe" /></a>
+  <a href="https://tryhackme.com/p/technoHerder" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="TryHackMe" /></a>
 </p>
 
 <p align="left"> 
-  <img src="https://thumbs.gfycat.com/BasicOrganicBlackrussianterrier-size_restricted.gif" alt="hackerMan" />
+  <img src="https://thumbs.gfycat.com/BasicOrganicBlackrussianterrier-size_restricted.gif" alt="hackerMan" target="_blank" />
 </p>
 
 ## :notebook: Latest blog posts
