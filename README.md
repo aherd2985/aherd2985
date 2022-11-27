@@ -6,5 +6,5 @@
 </p>
 
 <p align="left"> 
-  <img src="[https://profile-counter.glitch.me/aherd2985/count.svg](https://tryhackme-badges.s3.amazonaws.com/technoHerder.png)" alt="Hack The Box" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="Hack The Box" />
 </p>
