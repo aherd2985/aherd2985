@@ -1,4 +1,4 @@
-<div background-color: #000000;>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%234AF626&lines=What's+up!+I'm+Andrew+-+aka+technoHerder)](https://git.io/typing-svg)
 
@@ -24,4 +24,4 @@
   - [Root an Android Mobile Device](https://hack.technoherder.com/rooting-android/)
   <!-- BLOG-POST-LIST:END -->
 
-</div>
+
