@@ -14,7 +14,7 @@
   </p>
 
   <p align="left"> 
-    <img src="https://thumbs.gfycat.com/BasicOrganicBlackrussianterrier-size_restricted.gif" alt="hackerMan" />
+    <img src="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-2uI6D6NrbdbqDAj2tH" alt="hackerMan" />
   </p>
 
   ## :notebook: Latest blog posts
