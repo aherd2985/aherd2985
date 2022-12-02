@@ -14,7 +14,7 @@
   </p>
 
   <p align="left"> 
-    <img src="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-2uI6D6NrbdbqDAj2tH" alt="hackerMan" />
+    <iframe src="https://giphy.com/embed/2uI6D6NrbdbqDAj2tH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-2uI6D6NrbdbqDAj2tH">via GIPHY</a></p>
   </p>
 
   ## :notebook: Latest blog posts
