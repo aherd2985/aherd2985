@@ -1,6 +1,6 @@
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2388cc14&lines=What's+up!+I'm+Andrew+-+aka+technoHerder)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2388cc14&lines=What's+up!+I'm+technoHerder+-+aka+Andrew)](https://git.io/typing-svg)
 
   ![gitHubStats](https://github-readme-stats.vercel.app/api?username=aherd2985&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true)
 
