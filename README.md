@@ -20,6 +20,7 @@
   ## :notebook: Latest blog posts
   <!-- BLOG-POST-LIST:START -->
   - [Chisel with Proxychains](https://hack.technoherder.com/chisel/)
+  - [Quick Reverse Shell Evading AV Detection](https://hack.technoherder.com/quick-reverse-shell-evading-av-detection/)
   - [C# with WinAPI and P/Invoke](https://hack.technoherder.com/winapi-csharp/)
   - [Root an Android Mobile Device](https://hack.technoherder.com/rooting-android/)
   - [JWT Attacks](https://hack.technoherder.com/jwt-attacks/)
