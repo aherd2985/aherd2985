@@ -3,12 +3,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2388cc14&lines=What's+up!+I'm+technoHerder+-+aka+Andrew)](https://git.io/typing-svg)
 
 
-
-  <p align="left"> 
-    Visitors (Since Sept 2, 2022):<br>
-    <img src="https://profile-counter.glitch.me/aherd2985/count.svg" />
-  </p>
-
   <p align="left"> 
     <a href="https://tryhackme.com/p/technoHerder"><img src="https://tryhackme-badges.s3.amazonaws.com/technoHerder.png" alt="TryHackMe" /></a>
   </p>
